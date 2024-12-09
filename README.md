@@ -1,4 +1,4 @@
-# basic-quarto
+# basic-quarto-pdf
 
 This is a *very* basic starting point for making a OK looking .pdf in Quarto.
 
@@ -7,4 +7,4 @@ This is a *very* basic starting point for making a OK looking .pdf in Quarto.
 1. Fork this repository
 2. Clone your fork to your local machine. 
 3. Edit Quarto.qmd
-4. Render in RStudio or with <kbd> quarto preview Quarto.qmd </kbd> in terminal.
+4. Render in RStudio or with <kbd>quarto render basic-quarto-pdf</kbd> in terminal.
