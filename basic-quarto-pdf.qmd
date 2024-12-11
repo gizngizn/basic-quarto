@@ -36,6 +36,8 @@ pacman::p_load(
   rio            # import/export
 )
 
+df <- import("data.csv")
+
 ```
 
 ## Bakgrund
